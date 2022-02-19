@@ -8,7 +8,7 @@ __Flor_de_Liz__ is a *software* for scheduling appointments for small and medium
 
 ## Stats:
 
-![GitHub](https://img.shields.io/github/license/italo-carvavalho/Development-studies)![GitHub language count](https://img.shields.io/github/languages/count/italo-carvavalho/Development-studies)![GitHub top language](https://img.shields.io/github/languages/top/italo-carvavalho/Development-studies)![GitHub issues](https://img.shields.io/github/issues/italo-carvavalho/Development-studies)![Packagist PHP Version Support (custom server)](https://img.shields.io/packagist/php-v/italo-carvavalho/Development-studies)![AppVeyor tests](https://img.shields.io/appveyor/tests/italo-carvavalho/Development-studies)![GitHub repo size](https://img.shields.io/github/repo-size/italo-carvavalho/Development-studies?color=grey)
+![GitHub](https://img.shields.io/github/license/italo-carvavalho/Development-studies)	![](https://img.shields.io/github/languages/count/italo-carvavalho/Development-studies)	![GitHub top language](https://img.shields.io/github/languages/top/italo-carvavalho/Development-studies)	![GitHub issues](https://img.shields.io/github/issues/italo-carvavalho/Development-studies)	![Packagist PHP Version Support (custom server)](https://img.shields.io/packagist/php-v/italo-carvavalho/Development-studies)![AppVeyor tests](https://img.shields.io/appveyor/tests/italo-carvavalho/Development-studies)	![GitHub repo size](https://img.shields.io/github/repo-size/italo-carvavalho/Development-studies?color=grey)
 
 ## Status do project:
 
